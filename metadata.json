@@ -1,0 +1,7 @@
+{
+  "name": "StorySpark Kids",
+  "description": "A magical interactive storybook app for kids that generates unique stories, narrates them aloud, and creates custom illustrations for every page using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
